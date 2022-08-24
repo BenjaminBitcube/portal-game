@@ -1,0 +1,11 @@
+:root {
+    --size: 80px;
+  }
+
+.Tile {
+    height: var(--size);
+    width: var(--size);
+    background-color: white;
+    opacity: 0.5;
+    border-radius: 20%;
+}
